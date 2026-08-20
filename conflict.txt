@@ -2,3 +2,4 @@ Security feature will be reviewed on master.
 Security feature development started. 
 Login feature development started.
 Profile feature development started.
+VS Code commit practice started.
