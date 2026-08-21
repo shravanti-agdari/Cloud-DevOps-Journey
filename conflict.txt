@@ -4,3 +4,4 @@ Login feature development started.
 Profile feature development started.
 VS Code commit practice started.
 Learning Git branches in VS Code.
+GitHub Flow uses short-lived feature branches.
